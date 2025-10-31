@@ -1,4 +1,4 @@
-Disciplina: Resolução de Problemas Estruturados;
+*Disciplina: Resolução de Problemas Estruturados;*
 Atividade: Supervisionada 01;
 
 Academico:
